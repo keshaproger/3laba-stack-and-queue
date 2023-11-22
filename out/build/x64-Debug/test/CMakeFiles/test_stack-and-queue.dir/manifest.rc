@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Универ/3laba stack and queue/out/build/x64-Debug/test/CMakeFiles/test_stack-and-queue.dir/embed.manifest"
